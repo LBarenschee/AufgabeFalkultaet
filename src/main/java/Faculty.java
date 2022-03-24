@@ -22,5 +22,5 @@ public class Faculty {
         }
         System.out.println("Factorial of " + number + " is: " + result);
         return result;
-    }
+    } //Test
 }
